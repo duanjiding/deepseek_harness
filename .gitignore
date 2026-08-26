@@ -1,0 +1,3 @@
+# Local checkout of the official DeepSeek Harness source. Keep it on disk
+# for reading and running, but do not publish it with this notes repo.
+src/deepseek-harness/
